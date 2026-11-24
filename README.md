@@ -1,6 +1,6 @@
-# codedog1.github.io
+# cauchyjia.github.io
 
-Minimalist personal homepage hosted on GitHub Pages: https://codedog1.github.io
+Minimalist personal homepage hosted on GitHub Pages: https://cauchyjia.github.io
 
 ## Structure
 
